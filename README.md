@@ -2,7 +2,26 @@
 
 **`Desenvolvedor Front End`**
 
-👋 Olá! Sou Kayque Miqueias, um desenvolvedor de São Paulo, com 22 anos. Formado em Análise e Desenvolvimento de Sistemas e atualmente aprofundando meus conhecimentos em Segurança da Informação. Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados diariamente. 🚀
+## 👨‍💻 Sobre mim:
+🎓 **Futuro desenvolvedor Full Stack**
+  
+Formado em Análise e Desenvolvimento de Sistemas, atualmente no 1° Semestre em Segurança da Informação, apaixonado por desenvolvimento web, boas práticas e aprender algo novo todos os dias.
+
+💻 **Objetivo Profissional**
+
+Meu foco é me tornar um Desenvolvedor FullStack, com habilidades tanto no front-end quanto no back-end, criando soluções completas e inovadoras.
+
+🤖 **Interesses Atuais**
+
+Estudando intensamente sobre desenvolvimento Front End e suas aplicações práticas.
+
+💼 **Experiência Profissional**
+
+Atualmente trabalho na Softpark, onde aplico e desenvolvo minhas habilidades enquanto contribuo com projetos da empresa.
+
+🌟 **Motivação**
+
+Apaixonado por tecnologia e inovação, estou sempre buscando maneiras de crescer e aprender algo novo. 🚀
 
 ---
 
