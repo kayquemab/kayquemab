@@ -41,13 +41,7 @@ Apaixonado por tecnologia e inovação, estou sempre buscando maneiras de cresce
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" style="margin-right: 15px;">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="node" style="margin-right: 15px;">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" style="margin-right: 15px;">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="background-color: white; padding: 5px; border-radius: 8px;">
-
-          
-
-
-       
-  
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="git" style="margin-right: 15px;">
 
 </div>
 
@@ -56,4 +50,5 @@ Apaixonado por tecnologia e inovação, estou sempre buscando maneiras de cresce
 <div align="left">  
   <img width="49%x" height="195px" src="https://github-readme-stats.vercel.app/api?username=kayquemab&theme=tokyonight" alt="Kayque Miqueias github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayquemab&layout=compact&theme=tokyonight&hide-border=true" alt="Kayque Miqueias github lang stats"/>
+
 </div>
