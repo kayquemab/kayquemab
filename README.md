@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Kayque Miqueias
+# 🧑🏻‍💻 Kayque Miqueias
 
 **`Desenvolvedor Front End`**
 
-## 👨‍💻 Sobre mim:
+## 👨🏻‍💻 Sobre mim:
 🎓 **Futuro desenvolvedor Full Stack**
   
 Formado em Análise e Desenvolvimento de Sistemas, atualmente no 1° Semestre em Segurança da Informação, apaixonado por desenvolvimento web, boas práticas e aprender algo novo todos os dias.
