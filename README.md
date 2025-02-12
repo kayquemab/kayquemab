@@ -27,13 +27,8 @@ Apaixonado por tecnologia e inovação, estou sempre buscando maneiras de cresce
 
 ### 📱 Vamos nos conectar! 
 
-<a href="https://www.instagram.com/kayque.mab/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a> 
-
-<a href="https://www.linkedin.com/in/kayque-miqueias-463581326/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayque.mab/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayque-miqueias-463581326/)
 
 ---
 
