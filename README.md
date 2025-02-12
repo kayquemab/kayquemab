@@ -13,7 +13,7 @@ Meu foco é me tornar um Desenvolvedor FullStack, com habilidades tanto no front
 
 🤖 **Interesses Atuais**
 
-Estudando intensamente sobre desenvolvimento Front End e suas aplicações práticas.
+Estudando intensamente sobre desenvolvimento Front-End e suas aplicações práticas.
 
 💼 **Experiência Profissional**
 
