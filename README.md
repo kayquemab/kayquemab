@@ -3,8 +3,9 @@
 **`Desenvolvedor Front End`**
 
 ## 👨🏻‍💻 Sobre mim:
+
 🎓 **Futuro desenvolvedor Full Stack**
-  
+
 Formado em Análise e Desenvolvimento de Sistemas, atualmente no 1° Semestre em Segurança da Informação, apaixonado por desenvolvimento web, boas práticas e aprender algo novo todos os dias.
 
 💻 **Objetivo Profissional**
@@ -44,6 +45,5 @@ Apaixonado por tecnologia e inovação, estou sempre buscando maneiras de cresce
 
 <div align="left">  
   <img width="49%x" height="195px" src="https://github-readme-stats.vercel.app/api?username=kayquemab&theme=tokyonight" alt="Kayque Miqueias github stats"/> 
-  <!--<img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayquemab&layout=donut&theme=dracula&hide-border=true" alt="Kayque Miqueias github lang stats"/>-->
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayquemab&layout=compact&theme=tokyonight&hide-border=true" alt="Kayque Miqueias github lang stats"/>
 </div>
