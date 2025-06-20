@@ -39,6 +39,7 @@ Sou apaixonado por tecnologia e inovação. Busco constantemente aprender algo n
  
 <img height="50" title="Algoritmos" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original.svg" alt="Algoritmos" style="margin-right: 15px;"><img height="50" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="margin-right: 15px;">
 <img height="50" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" style="margin-right: 15px;">
+<img height="50" title="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" style="margin-right: 15px;">
 <img height="50" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="CSS3" style="margin-right: 15px;">
 <img height="50" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="CSS3" style="margin-right: 15px;">
 <img height="50" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" style="margin-right: 15px;"/>
