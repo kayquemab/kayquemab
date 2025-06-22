@@ -30,7 +30,7 @@ Sou apaixonado por tecnologia e inovação. Busco constantemente aprender algo n
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayque.mab/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayque-miqueias-463581326/) 
-[![Curriculo](https://img.shields.io/badge/curriculo-%23000000?style=for-the-badge&logo=curriculo&logoColor=white&labelColor=000000&color=000000&logoWidth=20)](https://kayquemab.github.io/Curriculo/)  
+[![Curriculo](https://img.shields.io/badge/curriculo-%23000000?style=for-the-badge&logo=curriculo&logoColor=white&labelColor=000000&color=000000&logoWidth=20)](https://kayquemab.github.io/HTML5_6/)  
 
 
 ---
