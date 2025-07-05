@@ -31,17 +31,17 @@ Sou movido pela paixão por tecnologia e inovação, com o objetivo de criar sol
 
 ### 🤖 Linguagens e Tecnologias
 
-<div align="left">
+<div align="left"> 
 
-<img title="Portugol"   src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png"                                 width="60" height="65"/>
-<img title="Algoritmos" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original.svg" width="60" height="65"/>
-<img title="Git"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                     width="60" height="65"/>
-<img title="GitHub"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"               width="60" height="65"/>
-<img title="Markdown"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"           width="60" height="65"/>
-<img title="HTML5"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"                    width="60" height="65"/>
-<img title="CSS3"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"                      width="60" height="65"/>
-<img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"       width="60" height="65"/>
-<img title="React"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"                 width="60" height="65"/>
+<img title="Portugol"   src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png"                                 width="55" height="55"/>
+<img title="Algoritmos" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original.svg" width="55" height="55"/>
+<img title="Git"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                     width="55" height="55"/>
+<img title="GitHub"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"               width="55" height="55"/>
+<img title="Markdown"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"           width="55" height="55"/>
+<img title="HTML5"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"                    width="55" height="55"/>
+<img title="CSS3"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"                      width="55" height="55"/>
+<img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"       width="55" height="55"/>
+<img title="React"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"                 width="55" height="55"/>
 
 </div>
 
