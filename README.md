@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Kayque Miqueias
 
-**`Desenvolvedor Full-Stack`**
+**`Desenvolvedor Front-End`**
 
 ## 👨🏻‍💻 Sobre mim  
 
@@ -10,7 +10,7 @@ Graduado em Análise e Desenvolvimento de Sistemas, tenho como objetivo consolid
 
 **💻 Atuação e Competências**
 
-Atuo no desenvolvimento de aplicações front-end e back-end, com foco em interfaces modernas, responsivas e funcionais. Combino habilidades técnicas com senso estético e usabilidade, sempre aplicando boas práticas de desenvolvimento e atenção à performance e escalabilidade.
+Atuo no desenvolvimento de aplicações front-end, com foco em interfaces modernas, responsivas e funcionais. Combino habilidades técnicas com senso estético e usabilidade, sempre aplicando boas práticas de desenvolvimento e atenção à performance e escalabilidade.
 
 **🤖 Aprimoramento Contínuo**
 
@@ -33,15 +33,15 @@ Sou movido pela paixão por tecnologia, design e inovação. Acredito no poder t
 
 <div align="left"> 
 
-<img title="Portugol"   src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png"                                 width="65" height="70"/>
-<img title="Algoritmos" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original.svg" width="65" height="70"/>
-<img title="Git"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                     width="65" height="70"/>
-<img title="GitHub"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"               width="65" height="70"/>
-<img title="Markdown"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"           width="65" height="70"/>
-<img title="HTML5"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"                    width="65" height="70"/>
-<img title="CSS3"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"                      width="65" height="70"/>
-<img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"       width="65" height="70"/>
-<img title="React"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"                 width="65" height="70"/>
+<img title="Portugol"   src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png"                                 width="60" height="65"/>
+<img title="Algoritmos" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original.svg" width="60" height="65"/>
+<img title="Git"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                     width="60" height="65"/>
+<img title="GitHub"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"               width="60" height="65"/>
+<img title="Markdown"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"           width="60" height="65"/>
+<img title="HTML5"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"                    width="60" height="65"/>
+<img title="CSS3"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"                      width="60" height="65"/>
+<img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"       width="60" height="65"/>
+<img title="React"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"                 width="60" height="65"/>
 
 </div>  
 
@@ -50,6 +50,6 @@ Sou movido pela paixão por tecnologia, design e inovação. Acredito no poder t
 ### 📊 Estatísticas  
 
 <div align="left">  
-  <img width="450px" height="195px" src="https://github-readme-stats.vercel.app/api?username=kayquemab&theme=tokyonight" alt="Kayque Miqueias GitHub Stats"/>  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayquemab&layout=compact&theme=tokyonight&hide-border=true" alt="Kayque Miqueias GitHub Lang Stats"/>  
+  <img width="400px" height="190px" src="https://github-readme-stats.vercel.app/api?username=kayquemab&theme=tokyonight" alt="Kayque Miqueias GitHub Stats"/>  
+  <img width="400px" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayquemab&layout=compact&theme=tokyonight&hide-border=true" alt="Kayque Miqueias GitHub Lang Stats"/>  
 </div>  
