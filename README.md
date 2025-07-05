@@ -51,5 +51,6 @@ Sou movido pela paixão por tecnologia, design e inovação. Acredito no poder t
 
 <div align="left">  
   <img width="400px" height="190px" src="https://github-readme-stats.vercel.app/api?username=kayquemab&theme=tokyonight" alt="Kayque Miqueias GitHub Stats"/>  
-  <img width="400px" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayquemab&layout=compact&theme=tokyonight&hide-border=true" alt="Kayque Miqueias GitHub Lang Stats"/>  
+  <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayquemab&layout=compact&theme=tokyonight&hide-border=true" 
+alt="Kayque Miqueias GitHub Lang Stats"/>  
 </div>  
