@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-## 👨🏻‍💻 Sobre mim  
+## 👨🏻‍💻 Sobre mim
 
 **🎓 Formação e Objetivo Profissional**
 
