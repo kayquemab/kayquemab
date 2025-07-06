@@ -6,7 +6,7 @@
 
 **🎓 Formação e Objetivo Profissional**
 
-Sou formado em Análise e Desenvolvimento de Sistemas (ADS) e atualmente foco no desenvolvimento front-end, enquanto construo meu caminho para atuar como desenvolvedor Full Stack, dominando tanto a interface quanto a lógica de sistemas completos.
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente foco no desenvolvimento front-end, enquanto construo meu caminho para atuar como desenvolvedor Full Stack, dominando tanto a interface quanto a lógica de sistemas completos.
 
 **💻 Atuação e Competências**
 
