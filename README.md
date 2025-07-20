@@ -50,10 +50,9 @@ Sou movido pela paixão por tecnologia e inovação, com o objetivo de criar sol
 ### 📊 Estatísticas
 
 <div align="left">
+<img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=kayquemab&theme=tokyonight" alt="Kayque Miqueias GitHub Stats"/>
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=kayquemab&theme=tokyonight" alt="Kayque Miqueias GitHub Stats"/>
-<img width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayquemab&layout=compact&theme=tokyonight&hide-border=true" alt="Kayque Miqueias GitHub Lang Stats"/>
-
+<img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayquemab&layout=compact&theme=tokyonight&hide-border=true" alt="Kayque Miqueias GitHub Lang Stats"/>
 </div>
 
  
