@@ -25,7 +25,8 @@ Sou movido pela paixão por tecnologia e inovação, com o objetivo de criar sol
 ### 📱 Vamos nos conectar!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayque.mab/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayque-miqueias-463581326/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayque-miqueias-463581326/)
+[![Portifólio](https://img.shields.io/badge/Portifólio-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-ou-link-para-curriculo)
 
 ---
 
