@@ -4,21 +4,27 @@
 
 ## 👨🏻‍💻 Sobre mim
 
-**🎓 Formação e Objetivo Profissional**
+🎓 Formado em Análise e Desenvolvimento de Sistemas  
 
-Sou formado em Análise e Desenvolvimento de Sistemas e atualmente foco no desenvolvimento front-end, enquanto construo meu caminho para atuar como desenvolvedor Full Stack, dominando tanto a interface quanto a lógica de sistemas completos.
+Atualmente atuo como desenvolvedor front-end, evoluindo para Full Stack, sempre em busca de criar soluções completas e de impacto.  
 
-**💻 Atuação e Competências**
+💻 Objetivo Profissional  
 
-Desenvolvo interfaces modernas, responsivas e intuitivas, sempre priorizando a experiência do usuário, alta performance e as melhores práticas de desenvolvimento web.
+Desenvolver interfaces modernas, responsivas e intuitivas, aliando front-end e back-end para entregar experiências de alta qualidade.  
 
-**🤖 Aprimoramento Contínuo**
+🤖 Interesses Atuais  
 
-Tenho compromisso constante com o aprendizado, estudando as tecnologias mais atuais do mercado e aplicando-as em projetos reais para fortalecer minha evolução como profissional full-stack.
+- Inteligência Artificial e aplicações práticas  
+- Desenvolvimento Front-end e tecnologias modernas  
+- Melhoria contínua em performance e experiência do usuário  
 
-**🌟 Motivação e Propósito**
+💼 Experiência Profissional  
 
-Sou movido pela paixão por tecnologia e inovação, com o objetivo de criar soluções eficientes e impactantes que tragam valor e facilitem o dia a dia das pessoas.
+Atualmente trabalho como desenvolvedor Front-end em projetos reais, aplicando minhas habilidades e aprendendo continuamente para expandir meu conhecimento full-stack.  
+
+🌟 Motivação  
+
+Sou movido por tecnologia e inovação, sempre buscando maneiras de criar soluções que facilitem a vida das pessoas e agreguem valor. Vamos construir algo incrível juntos? 🚀
 
 ---
 
@@ -34,7 +40,6 @@ Sou movido pela paixão por tecnologia e inovação, com o objetivo de criar sol
 
 <div style="display: inline_block"><br>
 
-<img title="Portugol"   align="center" src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png"                                  width="45" height="45"/>
 <img title="Algoritmos" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original.svg"  width="45" height="45"/>
 <img title="Git"        align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                      width="45" height="45"/>
 <img title="GitHub"     align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"                width="45" height="45"/>
@@ -42,7 +47,6 @@ Sou movido pela paixão por tecnologia e inovação, com o objetivo de criar sol
 <img title="HTML5"      align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"                     width="45" height="45"/>
 <img title="CSS3"       align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"                       width="45" height="45"/>
 <img title="Javascript" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"        width="45" height="45"/>
-<img title="Typescript" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"           width="45" height="45"/>
 <img title="React"      align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"                  width="45" height="45"/>
 
 </div>
