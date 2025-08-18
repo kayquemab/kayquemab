@@ -6,11 +6,11 @@
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
 
-Atualmente atuo como desenvolvedor front-end, evoluindo para Full Stack, sempre em busca de criar soluções completas e de impacto.  
+Atualmente atuo como desenvolvedor Front-end, evoluindo para Full Stack, sempre em busca de criar soluções completas e de impacto.  
 
 💻 Objetivo Profissional  
 
-Desenvolver interfaces modernas, responsivas e intuitivas, aliando front-end e back-end para entregar experiências de alta qualidade.  
+Desenvolver interfaces modernas, responsivas e intuitivas, aliando Front-end e Back-end para entregar experiências de alta qualidade.  
 
 🤖 Interesses Atuais  
 
