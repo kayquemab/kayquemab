@@ -40,14 +40,15 @@ Sou movido por tecnologia e inovação, sempre buscando maneiras de criar soluç
 
 <div style="display: inline_block"><br>
 
-<img title="HTML5"      align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"                     width="45" height="45"/>
-<img title="CSS3"       align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"                       width="45" height="45"/>
-<img title="Javascript" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"        width="45" height="45"/>
-<img title="Git"        align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                      width="45" height="45"/>
-<img title="GitHub"     align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"                width="45" height="45"/>
+<img title="HTML5"         align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"                     width="45" height="45"/>
+<img title="CSS3"          align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"                       width="45" height="45"/>
+<img title="Javascript"    align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"        width="45" height="45"/>
+<img title="Git"           align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                      width="45" height="45"/>
+<img title="GitHub"        align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"                width="45" height="45"/>
 <img title="React.js"      align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"                  width="45" height="45"/>
-<img title="MUI"        align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg"        width="45" height="45"/>
-<img title="Next.js"    align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"                width="45" height="45"/>
+<img title="MUI"           align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg"        width="45" height="45"/>
+<img title="Next.js"       align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"                width="45" height="45"/>
+<img title="Tailwind"      align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"                width="45" height="45"/>
 
 </div>
 
