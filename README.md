@@ -31,7 +31,7 @@ Sou movido por tecnologia e inovação, sempre buscando maneiras de criar soluç
 ### 📱 Vamos nos conectar!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayque.mab/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayque-miqueias-463581326/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayque-miqueias/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://kayque-dev.vercel.app/)
 
 ---
