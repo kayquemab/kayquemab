@@ -52,18 +52,18 @@ Sou movido por tecnologia e inovação, sempre buscando maneiras de criar soluç
 
 </div>
 
----
+<!-- --- -->
 
-### 📊 Estatísticas
+<!-- ### 📊 Estatísticas -->
 
 
-<div>
+<!-- <div>
 
 <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=kayquemab&theme=tokyonight" alt="Kayque Miqueias GitHub Stats"/>
 
 <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayquemab&layout=compact&theme=tokyonight&hide-border=true" alt="Kayque Miqueias GitHub Lang Stats"/>
 
-</div>
+</div> -->
 
 
  
