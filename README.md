@@ -1,34 +1,13 @@
-# 🧑🏻‍💻 Kayque Miqueias
+# Olá 👋, Eu sou Kayque Miqueias
 
-**`Desenvolvedor Front-End`**
+🚀 **Dev Full-Stack | JavaScript & Python**
 
-## 👨🏻‍💻 Sobre mim
-
-🎓 Formado em Análise e Desenvolvimento de Sistemas  
-
-Atualmente atuo como desenvolvedor Front-end, evoluindo para Full Stack, sempre em busca de criar soluções completas e de impacto.  
-
-💻 Objetivo Profissional  
-
-Desenvolver interfaces modernas, responsivas e intuitivas, aliando Front-end e Back-end para entregar experiências de alta qualidade.  
-
-🤖 Interesses Atuais  
-
-- Inteligência Artificial e aplicações práticas  
-- Desenvolvimento Front-end e tecnologias modernas  
-- Melhoria contínua em performance e experiência do usuário  
-
-💼 Experiência Profissional  
-
-Atualmente trabalho como desenvolvedor Front-end em projetos reais, aplicando minhas habilidades e aprendendo continuamente para expandir meu conhecimento full-stack.  
-
-🌟 Motivação  
-
-Sou movido por tecnologia e inovação, sempre buscando maneiras de criar soluções que facilitem a vida das pessoas e agreguem valor. Vamos construir algo incrível juntos? 🚀
+Eu construo **produtos escaláveis**, **plataformas SaaS** e **sistemas web** de alta performance.
+Estou profundamente focado em **arquitetura, performance, código limpo e soluções orientadas a negócios**.
 
 ---
 
-### 📱 Vamos nos conectar!
+## 🌐 Onde me encontrar
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayque.mab/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayque-miqueias/)
@@ -36,34 +15,45 @@ Sou movido por tecnologia e inovação, sempre buscando maneiras de criar soluç
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🧠 O que eu faço
 
-<div style="display: inline_block"><br>
+-   🏗️ Sistemas SaaS e de alta escala
+-   ⚡ Otimização de performance
+-   🧩 Arquitetura limpa
+-   🔐 APIs seguras e autenticação
 
-<img title="HTML5"         align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"                     width="45" height="45"/>
-<img title="CSS3"          align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"                       width="45" height="45"/>
-<img title="Javascript"    align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"        width="45" height="45"/>
-<img title="Git"           align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                      width="45" height="45"/>
-<img title="GitHub"        align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"                width="45" height="45"/>
-<img title="React.js"      align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"                  width="45" height="45"/>
-<img title="MUI"           align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg"        width="45" height="45"/>
-<img title="Next.js"       align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"                width="45" height="45"/>
-<img title="Tailwind"      align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"                width="45" height="45"/>
+---
 
-</div>
+## 🛠️ Tecnologias Utilizadas
 
-<!-- --- -->
+### Frontend
 
-<!-- ### 📊 Estatísticas -->
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
 
+### Backend
 
-<!-- <div>
-
-<img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=kayquemab&theme=tokyonight" alt="Kayque Miqueias GitHub Stats"/>
-
-<img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayquemab&layout=compact&theme=tokyonight&hide-border=true" alt="Kayque Miqueias GitHub Lang Stats"/>
-
-</div> -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 
- 
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
+
+---
+
+## 🚀 Filosofia
+
+> _"Programar não é apenas resolver problemas. 
+> É construir soluções que escalem, perdurem e gerem valor real."_
