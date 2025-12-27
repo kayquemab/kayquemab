@@ -17,8 +17,7 @@ Estou profundamente focado em **arquitetura, performance, código limpo e soluç
 
 ## 🧠 O que eu faço
 
--   🏗️ Sistemas SaaS e de alta escala
--   ⚡ Otimização de performance
+-   🏗️ Sistemas Web e Apps Mobile
 -   🧩 Arquitetura limpa
 -   🔐 APIs seguras e autenticação
 
