@@ -2,7 +2,7 @@
 
 🚀 **Dev Full-Stack | JavaScript & Python**
 
-Eu construo **produtos escaláveis**, **plataformas SaaS** e **sistemas web** de alta performance.
+Eu construo **aplicações escaláveis**, **API's seguras com autenticação** e **sistemas web** de alta performance.
 Estou profundamente focado em **arquitetura, performance, código limpo e soluções orientadas a negócios**.
 
 ---
