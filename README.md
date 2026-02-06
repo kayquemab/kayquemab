@@ -50,8 +50,3 @@ Estou profundamente focado em **arquitetura, performance, código limpo e soluç
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
 
 ---
-
-## 🚀 Filosofia
-
-> _"Programar não é apenas resolver problemas. 
-> É construir soluções que escalem, perdurem e gerem valor real."_
