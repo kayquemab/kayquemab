@@ -1,55 +1,47 @@
-# Olá 👋, Eu sou Kayque Miqueias
+# Olá 👋, eu sou Kayque Miqueias
 
-🚀 **Dev Full-Stack | JavaScript & Python**
+🚀 **Desenvolvedor Full Stack | JavaScript & Python**
 
-Eu construo **aplicações escaláveis**, **API's seguras com autenticação** e **sistemas web** de alta performance.
-Estou profundamente focado em **arquitetura, performance, código limpo e soluções orientadas a negócios**.
+Construo **aplicações escaláveis**, **APIs seguras com autenticação** e **sistemas web de alta performance**.
 
----
+Tenho foco em **arquitetura, performance, código limpo e soluções orientadas a negócios**.
 
 ## 🌐 Onde me encontrar
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayque.mab/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayque-miqueias/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://kayque-dev.vercel.app/)
-
----
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/kayque.mab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kayque-miqueias/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://kayque-dev.vercel.app/)
 
 ## 🧠 O que eu faço
 
--   🏗️ Sistemas Web e Apps Mobile
--   🧩 Arquitetura limpa
--   🔐 APIs seguras e autenticação
+* 🏗️ Desenvolvimento de sistemas web e aplicações
+* 🧩 Arquitetura limpa e código organizado
+* 🔐 APIs seguras, autenticação e controle de acesso
 
----
+## 🛠️ Tecnologias
 
-## 🛠️ Tecnologias Utilizadas
+### Front-end
 
-### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge\&logo=javascript\&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+### Back-end
 
-### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+### DevOps e ferramentas
 
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
-
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 
 <p align="center">
   <img
@@ -61,5 +53,4 @@ Estou profundamente focado em **arquitetura, performance, código limpo e soluç
 
 ## 🚀 Filosofia
 
-> _"Programar não é apenas resolver problemas. 
-> É construir soluções que escalem, perdurem e gerem valor real."_
+> *“Programar não é apenas resolver problemas. É construir soluções que escalem, perdurem e gerem valor real.”*
