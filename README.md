@@ -51,6 +51,14 @@ Estou profundamente focado em **arquitetura, performance, código limpo e soluç
 
 ---
 
+<p align="center">
+  <img
+    src="./dist/github-jet.svg"
+    alt="Jato animado sobre o gráfico de contribuições do GitHub"
+    width="100%"
+  />
+</p>
+
 ## 🚀 Filosofia
 
 > _"Programar não é apenas resolver problemas. 
